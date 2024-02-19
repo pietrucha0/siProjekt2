@@ -1,0 +1,17 @@
+:root {
+  --czerwony: #cc0000;
+  --czarny: #111111;
+  --bialy: #ffffff;
+  --pomarancz: #ffcc40;
+  --szary: #808080;
+  --szary2: #eeeeee;
+  --szary2hover: #e0e0e0;
+  --szary2active: #f3f3f3;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+}
